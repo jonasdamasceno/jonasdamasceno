@@ -1,6 +1,6 @@
 ### Hi there 👋
 jonasmichael@outlook.com <br>
-
+www.linkedin.com/in/jonas-damasceno
 <a href="www.linkedin.com/in/jonas-damasceno">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
