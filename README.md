@@ -1,5 +1,5 @@
 ### Hi there 👋
-jonasmichael@outlook.com
+jonasmichael@outlook.com <br>
 www.linkedin.com/in/jonas-damasceno
 <!--
 **jonasdamasceno/jonasdamasceno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
