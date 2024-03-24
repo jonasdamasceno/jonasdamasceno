@@ -1,4 +1,9 @@
 ### Hi there 👋
+
+ola, bem-vindos!
+Me chamo Jonas, sou mineiro de Betim, região metropolitana de Belo Horizonte, sou formado em Ciências Econômicas pela PUC minas, tenho cerca de 5 anos de experiencia na área de rede de computadores e na gestão de equipes.
+Recentemente iniciei uma transição de carreira e atualmente sou estudante de desenvolvimento web full-stack na Trybe, adoro treinar jiu jitso, e muay thai, e descobrir a paixão por codar e resolver problemas.
+Tenho desenvolvido habilidades em javascript, CSS , HTML, GIT, Python, Node e React
 jonasmichael@outlook.com <br>
 www.linkedin.com/in/jonas-damasceno
 <a href="www.linkedin.com/in/jonas-damasceno">
