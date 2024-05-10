@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack developer from Brazil 🇧🇷:</h3> <p align="left">  I've been studding Front-End and Back-End Developer since 2022. I'm passionate about web development and hype tech 💻. You can see some of my working projects in my pinned 📌 projects here.</p> <p align="left">In my free time I like to watch movies and series 🎞️, to travel, scpecially travel for snowboarding 🏂, to play Dota 🎮, to go to the gym 💪 and to go out to eat differents foods 😋 . I love the summer, enjoy beaches and sun 🏖️.</p> Would you like to know more about me? 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://www.linkedin.com/in/jonas-damasceno-7a855a63" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriela-gontijo" height="30" width="40" /></a> </p> 
+<p align="left"> <a href="https://www.linkedin.com/in/jonas-damasceno-7a855a63" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jonas Damasceno" height="30" width="40" /></a> </p> 
 
 <h3 align="left">Languages and Tools:</h3
                                        
